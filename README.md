@@ -9,7 +9,7 @@ This project analyzes restaurant data using machine learning techniques.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/restaurant-ml-project.git
+   git clone https://github.com/MISHREE-RAVAL/restaurant_ml_project.git
    ```
 2. Open the notebook in Google Colab or any Jupyter environment.
 
